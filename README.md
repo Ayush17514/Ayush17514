@@ -78,7 +78,8 @@ GitHub Repository:\
 https://github.com/Ayush17514/Ayush17514-portfolio
 
 Project Link:\
-https://ayush17514.github.io/ayush17514-portfolio/
+https://ayush17514.github.io/ayush17514-portfolio
+
 ------------------------------------------------------------------------
 
 ## Current Focus Areas
