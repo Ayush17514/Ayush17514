@@ -60,6 +60,9 @@ authentication, database integration, and modular architecture.
 GitHub Repository:\
 https://github.com/Ayush17514/Manbhar
 
+Project Link:\
+https://manbharjewels.hstn.me/
+
 ------------------------------------------------------------------------
 
 ### Personal Portfolio Website
@@ -72,19 +75,10 @@ professional profile.
 - Clean UI with consistent design system
 
 GitHub Repository:\
-https://github.com/Ayush17514/Portfolio
+https://github.com/Ayush17514/Ayush17514-portfolio
 
-------------------------------------------------------------------------
-
-## Academic Background
-
-Bachelor of Technology (B.Tech)\
-Computer Science Engineering
-
-Focused on strengthening: - Data Structures & Algorithms\
-- System-level thinking\
-- Software Engineering principles
-
+Project Link:\
+https://ayush17514.github.io/ayush17514-portfolio/
 ------------------------------------------------------------------------
 
 ## Current Focus Areas
@@ -96,21 +90,22 @@ Focused on strengthening: - Data Structures & Algorithms\
 
 ------------------------------------------------------------------------
 
-## GitHub Statistics
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=Ayush17514&show_icons=true&hide_border=true)
-
-------------------------------------------------------------------------
-
 ## Contact & Collaboration
 
+Linkedin:\
+https://www.linkedin.com/in/ayush-agrawal-2b23a5330
+
+Github:\
+https://github.com/Ayush17514
+
 Portfolio:\
-https://github.com/Ayush17514/Portfolio
+https://ayush17514.github.io/ayush17514-portfolio/
+
+Email:\
+ayushagrawal0429@gmail.com
 
 Open to internships, collaboration, and challenging development
 projects.
-
 ------------------------------------------------------------------------
 
 *Last updated: February 2026*
