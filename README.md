@@ -1,157 +1,116 @@
-# 👋 Welcome to My GitHub Profile!
+# Ayush Agrawal
 
-Hello! I'm **Ayush17514**, a passionate **student developer** from Maihar, Madhya Pradesh, currently based in Jaipur, Rajasthan. I'm dedicated to mastering **Full-Stack Development** and **DevOps Engineering** through hands-on projects and continuous learning.
+**Computer Science Engineering Student**\
+Full-Stack Developer \| Problem Solver \| DevOps Learner\
+Jaipur, India
 
----
+------------------------------------------------------------------------
 
-## 🚀 About Me
+## Professional Summary
 
-- 👨‍🎓 **Student Developer** with a strong foundation in core programming
-- 💻 **Full-Stack Enthusiast** building responsive and dynamic web applications
-- 🔧 **DevOps Explorer** interested in deployment, containerization, and infrastructure
-- 🌱 **Lifelong Learner** constantly expanding my technical skillset
-- 🤝 **Open-Source Advocate** passionate about collaborative development
-- 📍 **Location**: Jaipur, Rajasthan | **Originally from**: Maihar, Madhya Pradesh
+Motivated Computer Science student with hands-on experience in building
+full-stack web applications using PHP, MySQL, and modern frontend
+technologies.
 
----
+Focused on writing structured, maintainable code and building real-world
+systems that solve practical problems. Strong interest in backend
+architecture, version control systems, and scalable deployment
+practices.
 
-## 💼 Skills & Expertise
+------------------------------------------------------------------------
 
-### 🌟 Top Skills
-- **Git** - Version control & collaboration
-- **PHP** - Backend development
-- **Frontend Development** - HTML, CSS, JavaScript
-- **C (Core Programming)** - Strong fundamentals
+## Core Competencies
 
-### 🛠️ Tech Stack
+### Programming
 
-**Backend & Server-Side**
-- PHP
-- Python
-- Java
-- C++
+-   C, C++
+-   Java
+-   Python
+-   PHP
+-   JavaScript (Learning & Improving)
 
-**Frontend & Web Development**
-- HTML5
-- CSS3
-- JavaScript (Beginner)
+### Web Development
 
-**Core Programming**
-- C
-- C++
+-   HTML5, CSS3
+-   Responsive Design
+-   MySQL Database Design
+-   REST Architecture (Foundational understanding)
 
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux Command Line
+### Tools & Environment
 
----
+-   Git & GitHub
+-   Linux
+-   VS Code
+-   Command Line
 
-## 🏆 Featured Projects
+------------------------------------------------------------------------
 
-### 📱 **Manbhar**
-*A feature-rich application/platform showcasing full-stack development skills*
-- 🔗 [View Repository](https://github.com/Ayush17514/Manbhar)
-- **Tech Stack**: PHP, HTML, CSS, JavaScript, MySQL
-- **Highlights**: 
-  - User authentication & authorization
-  - Responsive design
-  - Database management
+## Featured Projects
 
-### 💼 **Personal Portfolio**
-*A professional portfolio website showcasing my projects and skills*
-- 🔗 [View Repository](https://github.com/Ayush17514/Portfolio)
-- **Tech Stack**: HTML5, CSS3, JavaScript, PHP
-- **Highlights**: 
-  - Responsive & modern UI
-  - Project showcase
-  - Contact integration
+### Manbhar --- Full-Stack Web Application
 
----
+A structured PHP & MySQL based web application demonstrating
+authentication, database integration, and modular architecture.
 
-## 📊 GitHub Statistics
+**Highlights** - Secure user login system\
+- Dynamic database-driven pages\
+- Clean UI with structured backend logic\
+- Organized project architecture
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush17514&show_icons=true&theme=radical&hide_border=true)
+GitHub Repository:\
+https://github.com/Ayush17514/Manbhar
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush17514&layout=compact&theme=radical&hide_border=true)
+------------------------------------------------------------------------
 
----
+### Personal Portfolio Website
 
-## 🎯 Current Learning Journey
+A responsive portfolio website designed to present skills, projects, and
+professional profile.
 
-I'm actively working towards becoming a proficient **Full-Stack Developer** and **DevOps Engineer**:
+**Highlights** - Modern responsive layout\
+- Structured section hierarchy\
+- Clean UI with consistent design system
 
-- 🚀 **Full-Stack Development**: Building complete web applications with frontend, backend, and database integration
-- 🐳 **DevOps Engineering**: Learning containerization, CI/CD pipelines, and infrastructure as code
-- 📚 **JavaScript**: Expanding JavaScript skills to build dynamic frontend applications
-- 🔄 **System Design**: Understanding scalable architecture and best practices
+GitHub Repository:\
+https://github.com/Ayush17514/Portfolio
 
----
+------------------------------------------------------------------------
 
-## 💡 What I'm Currently Working On
+## Academic Background
 
-- Building full-stack web applications with PHP and JavaScript
-- Exploring DevOps tools and practices
-- Contributing to meaningful projects
-- Strengthening JavaScript and backend development skills
-- Learning about deployment and cloud infrastructure
+Bachelor of Technology (B.Tech)\
+Computer Science Engineering
 
----
+Focused on strengthening: - Data Structures & Algorithms\
+- System-level thinking\
+- Software Engineering principles
 
-## 🌐 Let's Connect
+------------------------------------------------------------------------
 
-I'd love to collaborate, discuss projects, or just chat about tech! Feel free to reach out:
+## Current Focus Areas
 
-- 💼 LinkedIn - *Coming Soon*
-- 🐦 Twitter - *Coming Soon*
-- 📧 Email - *Coming Soon*
-- 🌍 Portfolio - [Personal Portfolio](https://github.com/Ayush17514/Portfolio)
+-   Improving JavaScript depth\
+-   Strengthening backend scalability concepts\
+-   Learning DevOps fundamentals (CI/CD, containerization basics)\
+-   Building production-level structured applications
 
----
+------------------------------------------------------------------------
 
-## 📖 About My Learning Path
+## GitHub Statistics
 
-I started my coding journey with **core C programming** to build strong fundamentals, then expanded into web development with **PHP and frontend technologies**. Now, I'm focusing on becoming a complete full-stack developer while exploring DevOps to understand the complete lifecycle of application development and deployment.
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Ayush17514&show_icons=true&hide_border=true)
 
-My goal is to create impactful projects that solve real-world problems and contribute meaningfully to the tech community.
+------------------------------------------------------------------------
 
----
+## Contact & Collaboration
 
-## 🎓 Tech Goals for 2026
+Portfolio:\
+https://github.com/Ayush17514/Portfolio
 
-- ✅ Master full-stack development with PHP and JavaScript
-- ✅ Build 3-5 portfolio-quality projects
-- ✅ Gain hands-on DevOps experience with Docker & CI/CD
-- ✅ Contribute to open-source projects
-- ✅ Build a strong professional network
+Open to internships, collaboration, and challenging development
+projects.
 
----
+------------------------------------------------------------------------
 
-## 🔥 Featured Repositories
-
-Explore more of my work:
-
-- **[Manbhar](https://github.com/Ayush17514/Manbhar)** - Full-stack application
-- **[Personal Portfolio](https://github.com/Ayush17514/Portfolio)** - Portfolio website
-- *More projects coming soon...*
-
----
-
-## 💪 Fun Facts About Me
-
-- 🎯 Passionate about building practical, real-world solutions
-- 📖 Believe in the power of continuous learning
-- 🤝 Love collaborating with other developers
-- 🌍 Interested in the intersection of development and operations (DevOps)
-
----
-
-## 📝 Final Words
-
-*"Code is not just about syntax; it's about solving problems and creating value."*
-
-Thank you for visiting my profile! Feel free to explore my repositories, check out my projects, and don't hesitate to reach out for collaborations or discussions. Let's build something amazing together! ✨
-
----
-
-*Last updated: February 14, 2026*
+*Last updated: February 2026*
